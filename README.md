@@ -1,5 +1,8 @@
 # python tools with onnx/tensorrt/onnxsim/vino
 
+This repo is mainly to do model conversion around onnx, for example: onnxsim, tensorrt or openvino, etc. 
+This repo is still being updated. . . . .
+
 ## TODO
 - [x] onnxsim
 - [x] onnx2trt
