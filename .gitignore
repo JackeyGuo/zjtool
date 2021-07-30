@@ -4,3 +4,4 @@ decrypt
 __pycache__
 
 .idea
+!.idea/*
