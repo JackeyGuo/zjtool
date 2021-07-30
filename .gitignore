@@ -1,0 +1,4 @@
+*.gz
+encrypt
+decrypt
+__pycache__
